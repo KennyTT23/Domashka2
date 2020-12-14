@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Lesson2 {
 
     public static void main(String[] args) {
-        int[] task1 = {1, 0, 0, 1, 0, 1, 0, 0, 1, 1};
+         int[] task1 = {1, 0, 0, 1, 0, 1, 0, 0, 1, 1};
         System.out.println(Arrays.toString(changeNumbers(task1)));
 
         int[] task2 = new int[8];
